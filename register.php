@@ -9,6 +9,7 @@
             <input type="password" placeholder="confirme ton password" name="passwordCorfirmed">
             <input type="email" placeholder="email" name="email">
             <input type="submit" value="register">
+            thomas
         </form>
     </div>
 </body>
